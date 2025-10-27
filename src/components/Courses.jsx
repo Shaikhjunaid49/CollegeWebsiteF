@@ -1,9 +1,9 @@
 // src/pages/Courses.jsx
 import CourseCard from "../components/CourseCard";
-import BCAImage from "../assets/bca.png"; // Add your images
-import BCSImage from "../assets/bcs.png";
-import MSCImage from "../assets/msc.png";
-import MCAImage from "../assets/mca.png";
+import BCAImage from "../assets/BCA.png"; // Add your images
+import BCSImage from "../assets/BCS.png";
+import MSCImage from "../assets/MSC.png";
+import MCAImage from "../assets/MCA.png";
 
 const courses = [
   { id: 1, title: "BCA", description: "Bachelor of Computer Applications", image: BCAImage },
